@@ -1,0 +1,54 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Security - NEVER COMMIT THESE! ###
+**/application-local.properties
+**/application-secret*.properties
+**/*secret*.yml
+**/*credentials*.json
+.env
+.env.local
+
+### Logs ###
+*.log
+logs/
+spring.log
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### H2 Database (production) ###
+*.db
+*.trace.db
