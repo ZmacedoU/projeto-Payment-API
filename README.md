@@ -359,19 +359,6 @@ Se este projeto te ajudou, deixe uma ⭐!
 
 ---
 
-## 📸 Screenshots
-
-### Swagger UI
-![Swagger UI](docs/screenshots/swagger-ui.png)
-
-### H2 Console
-![H2 Console](docs/screenshots/h2-console.png)
-
-### Health Check
-![Health Check](docs/screenshots/health-check.png)
-
----
-
 ## 📚 Referências
 
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/)
@@ -381,4 +368,3 @@ Se este projeto te ajudou, deixe uma ⭐!
 
 ---
 
-**Desenvolvido com ❤️ e Spring Boot**
